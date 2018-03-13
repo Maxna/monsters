@@ -1,0 +1,30 @@
+h1{
+  color: blue;
+  font-family: monospace;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  font-style: italic;
+}
+
+ul{
+  font-weight: bolder;
+}
+
+ol{
+  font-weight: normal;
+}
+
+a{
+  color: red;
+}
